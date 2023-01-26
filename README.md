@@ -11,3 +11,4 @@ In order to install Strapi using this template as a [Strapi starter project](htt
 or
 
 `npx create-strapi-app@latest my-project --template artcoded-net/corporateblog`
+# strapi-template-blog
