@@ -2,7 +2,6 @@ const {join} = require('path')
 
 module.exports = ({ env }) => ({
   // other plugins' configuration
-
   graphql: {
     enabled: true,
     config: {
@@ -27,10 +26,9 @@ module.exports = ({ env }) => ({
         // ... any custom nodemailer options
       },
       settings: {
-        defaultFrom: "info@artcoded.net",
-        defaultReplyTo: "info@artcoded.net",
+        defaultFrom: "samba4292@gmail.com",
+        defaultReplyTo: "samba4292@gmail.com",
       },
     },
   },
-  // ...
 });
